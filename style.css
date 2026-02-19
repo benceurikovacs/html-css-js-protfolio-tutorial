@@ -431,3 +431,11 @@ footer {
 footer p {
     text-align: center
 }
+
+/* ICONS */
+
+.tech-icon {
+  width: 32px;    /* vagy 24px, 40px */
+  height: 32px;
+  vertical-align: middle;
+}
