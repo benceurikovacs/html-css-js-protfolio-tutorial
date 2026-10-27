@@ -275,13 +275,13 @@ section {
     margin-top: 2rem;
 }
 
-.about-details-containter {
+.about-details-container {
     justify-content: center;
     flex-direction: column;
 }
 
 .about-containers,
-.about-details-containter {
+.about-details-container {
     display: flex;
 }
 
